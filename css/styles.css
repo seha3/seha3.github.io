@@ -1,3 +1,6 @@
+body {
+	background-color: #D5B7FA
+}
 h1 {
 	color: #1380EC;
 text-align: center;
@@ -5,5 +8,4 @@ text-align: center;
 }
 a {
 	color: blue;
-	text-align: center;
 }
